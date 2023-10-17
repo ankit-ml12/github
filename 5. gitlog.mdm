@@ -1,0 +1,14 @@
+### to see the log of last n command in details use this cmd 
+git log -p -3
+
+
+
+### to see the short summary total number of line added and removed we use 
+git log --stat
+
+
+#### to see all commit in one line 
+git log --pretty=oneline
+
+in small shorts para
+git log --pretty=short 
